@@ -32,7 +32,7 @@ The skill is available on your next turn after installation.
 ## Use
 
 ```text
-$skill-and-plugin-namer
+/skill-and-plugin-namer:skill-and-plugin-namer
 Name a skill that turns meeting transcripts into useful follow-up questions.
 The audience is independent consultants.
 Give me a shortlist, a recommended name, and listing copy.
