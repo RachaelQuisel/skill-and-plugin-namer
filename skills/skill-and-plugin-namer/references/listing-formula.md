@@ -1,7 +1,7 @@
 # Listing Formula (with worked examples)
 
 The formula is borrowed from the most-installed Claude marketplace plugins
-(Frontend Design at 400k+ installs, Superpowers, Code Review, Security Guidance).
+(Frontend Design, Superpowers, Code Review, Security Guidance).
 Their shared pattern: the name states the job, the first line states the
 before/after transformation, features are scannable bullets, and the strongest
 listings drop a concrete number or time estimate.
@@ -11,7 +11,7 @@ listings drop a concrete number or time estimate.
 1. **Name** — says what the plugin does, in the words a searcher would type.
 2. **Tagline** — one italic line under the name. Sells the feeling, not the feature.
 3. **Opener** — 1-3 sentences leading with the transformation: what changes for
-   the user, stated bluntly. A little irreverence is fine for a nerdy audience.
+   the user, stated bluntly. A little irreverence is fine when it suits the audience.
 4. **Feature bullets** — 3-5 bullets, one idea each, outcome-first.
 5. **How it works** — 2-3 steps, plain verbs, ending on a concrete time estimate.
 
