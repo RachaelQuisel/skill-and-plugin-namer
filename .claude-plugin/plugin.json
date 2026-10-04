@@ -1,0 +1,22 @@
+{
+  "name": "skill-and-plugin-namer",
+  "displayName": "Skill & Plugin Namer",
+  "description": "Name a skill or plugin and draft its listing: a searchable name, a tagline, a transformation-first description, feature bullets, and a how-it-works closer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "homepage": "https://github.com/RachaelQuisel/skill-and-plugin-namer",
+  "repository": "https://github.com/RachaelQuisel/skill-and-plugin-namer",
+  "documentationUrl": "https://github.com/RachaelQuisel/skill-and-plugin-namer#readme",
+  "supportUrl": "https://github.com/RachaelQuisel/skill-and-plugin-namer/issues",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "plugins",
+    "naming",
+    "marketplace",
+    "copywriting"
+  ],
+  "icon": "./icon.png"
+}

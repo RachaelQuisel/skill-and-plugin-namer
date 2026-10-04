@@ -1,0 +1,14 @@
+{
+  "name": "skill-and-plugin-namer",
+  "description": "Name a skill or plugin and draft its listing copy.",
+  "owner": { "name": "Rachael Quisel" },
+  "plugins": [
+    {
+      "name": "skill-and-plugin-namer",
+      "source": "./",
+      "description": "Name a skill or plugin and draft its listing: a searchable name, a tagline, a transformation-first description, feature bullets, and a how-it-works closer.",
+      "displayName": "Skill & Plugin Namer",
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-name: "skill-and-plugin-namer"
+name: skill-and-plugin-namer
 description: "Name a skill or plugin and draft its listing copy: searchable names that say what the plugin does, a personality-driven tagline, and a transformation-led description following the formula used for Rachael's three launch plugins."
 ---
 
