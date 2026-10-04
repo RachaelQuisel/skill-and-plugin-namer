@@ -7,7 +7,7 @@ Give your idea a name people understand. Turn a skill or plugin concept into a c
 ## What it does
 
 - Suggests three to five names for a concept
-- Recommends a winner with a short explanation
+- Recommends a name with a short explanation
 - Writes a tagline with personality
 - Drafts a description and scannable feature bullets
 - Explains how to use the tool in plain language
@@ -31,6 +31,8 @@ The skill is available on your next turn after installation.
 
 ## Use
 
+Start with what the tool does. If details are missing, the plugin asks up to three questions about the job, audience, and inputs and outputs. It waits for your answers and remembers them. You can revise a choice or select a name without restarting the conversation.
+
 ```text
 /skill-and-plugin-namer:skill-and-plugin-namer
 Name a skill that turns meeting transcripts into useful follow-up questions.
@@ -51,3 +53,5 @@ Provide what the tool does, its inputs and outputs, and who it is for. The skill
 ## License
 
 MIT
+
+Read [how it works](Skill-And-Plugin-Namer-HowItWorks-2026-10-03.md) for the questions, steps, and results.

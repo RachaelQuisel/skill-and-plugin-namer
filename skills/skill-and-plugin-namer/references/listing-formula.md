@@ -1,72 +1,54 @@
-# Listing Formula (with worked examples)
+# Listing structure and worked examples
 
-The formula is borrowed from the most-installed Claude marketplace plugins
-(Frontend Design, Superpowers, Code Review, Security Guidance).
-Their shared pattern: the name states the job, the first line states the
-before/after transformation, features are scannable bullets, and the strongest
-listings drop a concrete number or time estimate.
+Use the confirmed purpose and capabilities of the skill or plugin. The examples below illustrate copy structure. They do not establish measured results, installation counts, or completion times.
 
 ## Structure
 
-1. **Name** — says what the plugin does, in the words a searcher would type.
-2. **Tagline** — one italic line under the name. Sells the feeling, not the feature.
-3. **Opener** — 1-3 sentences leading with the transformation: what changes for
-   the user, stated bluntly. A little irreverence is fine when it suits the audience.
-4. **Feature bullets** — 3-5 bullets, one idea each, outcome-first.
-5. **How it works** — 2-3 steps, plain verbs, ending on a concrete time estimate.
+1. **Name:** State the job in words a user might search for.
+2. **Tagline:** Use one short line about the useful result.
+3. **Description:** State what the user supplies and receives in one to three sentences.
+4. **Features:** Use three to five bullets. Put one confirmed capability in each.
+5. **How it works:** Explain two or three steps. Include a time estimate only when its basis is supplied. Label it as an estimate unless measured.
 
-## Worked examples
+## GitHub Portfolio Builder
 
-### GitHub Portfolio Builder
-*Your GitHub, but make it hireable.*
+*Show what your GitHub work establishes.*
 
-Paste in your GitHub username. Get back a polished portfolio site that leads with
-your strongest projects, writes your intro, and makes the rest look intentional.
-No more "my profile is my portfolio" cope.
+Supply a profile or repository. Receive a sourced review of its public presentation and up to five useful improvements.
 
-- Ranks your repos by stars, activity, and real impact, then puts the winners up top
-- Writes a dev-bio intro in your voice, not LinkedIn voice
-- Generates project cards with descriptions that actually explain what you built and why it matters
-- Exports a deploy-ready static site you can ship to GitHub Pages in one push
+- Checks current repository files and relevant linked sources.
+- Separates verified facts, reported claims, interpretations, and gaps.
+- Links each finding to supporting evidence.
+- Identifies proof, permission, or attribution needed for suggested additions.
 
-How it works: connect your GitHub, pick a vibe, deploy. Done in about five minutes.
+How it works: choose the target and review focus. Read the sourced assessment and priorities. The review does not edit the repository or build a portfolio site.
 
-### Questions Worth Asking
-*Finds the things nobody said out loud in your meetings.*
+## Questions Worth Asking
 
-Drop in a transcript. It flags where people contradicted themselves, dodged the
-question, or agreed too fast, then hands you the exact questions you should have asked.
+*Find useful follow-up questions in your conversations.*
 
-- Spots dissonance: contradictions, hedged answers, and suspiciously smooth consensus
-- Generates sharp follow-up questions ranked by how much they matter
-- Timestamps every flag so you can jump straight to the moment
-- Works on 1:1s, interviews, sales calls, and postmortems
+Supply a transcript or related meeting notes. Receive ranked questions tied to exact excerpts.
 
-How it works: paste the transcript, get the dissonance report, walk into your next
-meeting armed.
+- Checks twelve types of potential questions.
+- Connects each question to a decision or next action.
+- Compares related sources when requested.
+- Returns fewer questions or none when the evidence is limited.
 
-### AI Privacy Settings Check
-*Your AI tools are sharing more than you think.*
+How it works: supply the sources and any review focus. Read the questions and evidence. The review does not diagnose motives or send messages.
 
-One scan of your Claude, ChatGPT, Grok, and Gemini default settings. It flags every
-privacy concern, explains what each toggle actually does in plain English, and tells
-you exactly what to switch off.
+## Generate Financial Dummy Data
 
-- Audits default settings across every major LLM in one pass
-- Flags training-data opt-ins, data retention, and third-party sharing you probably did not agree to on purpose
-- Plain-English explanations, no legalese, no 40-page privacy policy homework
-- Gives you a fix-it checklist: toggle this, turn off that, done
+*Prepare the test grants your scenario needs.*
 
-How it works: answer a few quick questions about which tools you use, get your
-privacy report card, lock it down in ten minutes.
+Choose an application or file. Answer missing questions about the count, amounts, and grant relationships. Receive saved records with checks or an import file.
 
-## Naming notes
+- Uses the selected destination's fields and relationships.
+- Accepts exact amounts or rules for generating them.
+- Reuses supporting records or creates fictional records when requested.
+- Reports verified values and unresolved checks.
 
-- Name shortlist for each plugin mixed descriptive winners with personality
-  alternatives, then picked the descriptive one:
-  - GitHub Portfolio Builder beat Starboard, Gitfolio, Top Shelf
-  - Questions Worth Asking beat The Unasked, Dissonance Report, Elephant in the Room
-  - AI Privacy Settings Check beat The Fine Print, Privacy Patrol, Opt-Out Oracle
-- Rule of thumb from this session: if a stranger cannot tell what the plugin does
-  from the name alone while scrolling search results, the name fails no matter how
-  clever it is.
+How it works: describe the test. Answer missing questions. Receive the grant records or file. This version covers grants and required supporting records.
+
+## Choose a name
+
+Prefer a name that describes the job. Explain why the recommended name helps a person understand the purpose. Keep exact product names. Do not promise better search ranking without evidence.
