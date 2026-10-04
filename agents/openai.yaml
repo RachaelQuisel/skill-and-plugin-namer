@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill & Plugin Namer"
+  short_description: "Name skills and plugins, then write their listings"
+  icon_small: "./assets/skill-and-plugin-namer.png"
+  icon_large: "./assets/skill-and-plugin-namer.png"
+  brand_color: "#E5C9CF"
+  default_prompt: "Use $skill-and-plugin-namer to suggest a clear name and draft listing copy for my skill or plugin."
