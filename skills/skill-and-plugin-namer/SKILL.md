@@ -1,9 +1,23 @@
 ---
 name: skill-and-plugin-namer
+version: 3.1.3
 description: "Name a skill or plugin and draft its listing copy: searchable names that say what the plugin does, a short tagline, and a description of the result following a fixed formula: name, tagline, before-and-after opener, feature bullets, and how it works."
 ---
 
 # Skill & Plugin Namer
+
+## Purpose in plain English
+
+This skill helps you choose a clear name for a skill or plugin and write its listing description.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Read [the conversation and writing rules](references/conversation-and-writing.md) before responding. Apply them to all user-facing text.
 

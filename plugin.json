@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "description": "Name a skill or plugin through a few questions. Receive a clear name, tagline, description, feature bullets, and usage steps.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Productivity",
+        "composerIcon": "./icon.png",
+        "developerName": "Rachael Quisel",
+        "displayName": "Skill & Plugin Namer",
+        "logo": "./icon.png",
+        "longDescription": "Name a skill or plugin through a few questions. Receive a clear name, tagline, description, feature bullets, and usage steps.",
+        "shortDescription": "Name skills and plugins"
+      }
+    }
+  },
+  "homepage": "https://github.com/RachaelQuisel/skill-and-plugin-namer",
+  "keywords": [
+    "skills",
+    "plugins",
+    "naming",
+    "marketplace",
+    "copywriting"
+  ],
+  "license": "MIT",
+  "name": "skill-and-plugin-namer",
+  "repository": "https://github.com/RachaelQuisel/skill-and-plugin-namer",
+  "version": "3.1.3"
+}

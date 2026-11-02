@@ -10,7 +10,8 @@
       "source": "./",
       "description": "Name a skill or plugin through a few questions. Receive a clear name, tagline, description, feature bullets, and usage steps.",
       "displayName": "Skill & Plugin Namer",
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "3.1.3"
     }
   ]
 }
