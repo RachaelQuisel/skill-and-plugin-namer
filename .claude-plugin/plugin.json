@@ -2,7 +2,7 @@
   "name": "skill-and-plugin-namer",
   "displayName": "Skill & Plugin Namer",
   "description": "Name a skill or plugin through a few questions. Receive a clear name, tagline, description, feature bullets, and usage steps.",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "author": {
     "name": "Rachael Quisel"
   },

@@ -5,7 +5,7 @@
     {
       "name": "skill-and-plugin-namer",
       "root": ".",
-      "version": "3.1.3",
+      "version": "3.1.4",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/skill-and-plugin-namer/SKILL.md",
-      "version": "3.1.3",
-      "sha256": "5bea6a6c4a624e67f6e991ade161107a23cc1eb2e11a449974e01c98cade45ba",
+      "version": "3.1.4",
+      "sha256": "76d03dee207b3edcc5ae29e17bad86a6ad39c148c0b140e0b157216f7ee758ee",
       "source": "skills/skill-and-plugin-namer/SKILL.md",
       "guide": "skills/skill-and-plugin-namer/README.md"
     }

@@ -1,6 +1,6 @@
 ---
 name: skill-and-plugin-namer
-version: 3.1.3
+version: 3.1.4
 description: "Name a skill or plugin and draft its listing copy: searchable names that say what the plugin does, a short tagline, and a description of the result following a fixed formula: name, tagline, before-and-after opener, feature bullets, and how it works."
 ---
 
